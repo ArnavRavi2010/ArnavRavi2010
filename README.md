@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ArnavRavi2010
+- 👋 Hi, I’m Arnav Ravi
 - 👀 I’m interested in chess and playing the piano
-- 🌱 I’m currently learning coding
+- 🌱 I’m currently learning coding in Python for a chess engine
 - 💞️ I’m looking to collaborate on GitHub with my friends
 
 <!---
